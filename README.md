@@ -14,11 +14,11 @@ And completed the construction of different color patterns and background music 
 
 The overall division into 5 categories
 
-- Parameter: Used to store parameters
-- Button: Used to handle two special buttons
-- Action: the main class for implementing the functions of the calculator
-- Calculator: the main class that calls the methods of the above classes
-- Music: the background music and the control of the calculator key tone
+    - Parameter: Used to store parameters
+    - Button: Used to handle two special buttons
+    - Action: the main class for implementing the functions of the calculator
+    - Calculator: the main class that calls the methods of the above classes
+    - Music: the background music and the control of the calculator key tone
 - **Difficult Points (for that time)**:
     - How to represent the process of calculation on the JTextField we created
     - How to construct the framework of the project: i.e. how to design the classes, and how to design the relative positions of the buttons and text boxes
