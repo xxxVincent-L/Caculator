@@ -28,8 +28,8 @@ The overall division into 5 categories
     - After learning about databases, I was planning to deploy a mysql database to my calculator (not yet completed)
     - In order to achieve the effect of background music and keystroke music, I learned how to call in the Applet package, so as to use the music effects
 - **Outcome**:
+![avatar](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bda1700-766b-4975-a878-be611134845a/Untitled.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bda1700-766b-4975-a878-be611134845a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bda1700-766b-4975-a878-be611134845a/Untitled.png)
 
 - **Shortcoming & Future**：
 
