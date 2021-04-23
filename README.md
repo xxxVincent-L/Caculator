@@ -28,7 +28,7 @@ The overall division into 5 categories
     - After learning about databases, I was planning to deploy a mysql database to my calculator (not yet completed)
     - In order to achieve the effect of background music and keystroke music, I learned how to call in the Applet package, so as to use the music effects
 - **Outcome**:
-![avatar](D:/MyDesktop/FIle Folder/Cal.png)
+！[Alt text](/Calculator/Cal.png)
 
 
 - **Shortcoming & Future**：
